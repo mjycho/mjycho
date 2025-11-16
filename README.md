@@ -1,5 +1,7 @@
 Hello, I'm Matthew.
 
-I'm a software engineer living in San Francisco, currently working at Notion.
+I'm a software engineer living in San Francisco, currently working at Notion Labs.
 
 I'm into movies and pickleball.
+
+Fight on!
